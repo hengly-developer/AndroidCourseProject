@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".SecondActivity" />
-        <activity android:name=".DynamicFragmentActivity"></activity>
+        <activity android:name=".DynamicFragmentActivity" />
+        <activity android:name=".CalculatorActivity" />
+        <activity android:name=".Table_LayoutActivity"></activity>
     </application>
 
 </manifest>
